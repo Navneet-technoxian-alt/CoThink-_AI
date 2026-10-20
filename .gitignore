@@ -2,6 +2,9 @@ node_modules/
 dist/
 *.local
 .env*
+.npmrc
+*.pem
+*.key
 *.log
 coverage/
 .DS_Store
